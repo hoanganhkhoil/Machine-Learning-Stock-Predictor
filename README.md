@@ -3,3 +3,6 @@ Utilized Machine Learning to build a program that is able to predict stock price
 
 # Visualization
 Please click on the file "Stock-It.ipynb" to visualize the result
+
+![Screenshot](Files/stock.png)
+
